@@ -1,0 +1,5 @@
+2026-04-15 15:26:48,448 - INFO - {'error': 'API Secret required for private endpoints'}
+2026-04-15 15:27:56,479 - INFO - {'error': 'API Secret required for private endpoints'}
+2026-04-15 15:29:40,662 - INFO - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-04-15 15:30:55,304 - INFO - {'orderId': 123456, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'price': 'MARKET', 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 'current_market_price'}
+2026-04-15 15:32:20,426 - INFO - {'orderId': 123456, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.001, 'price': 30000.0, 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 30000.0}
